@@ -1,0 +1,22 @@
+/* NORMALIIZE */
+/* ================================================ */
+
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p
+,blockquote,pre,a,abbr,address,cite,code,del,dfn,
+em,img,ins,kbd,q,s,samp,small,strong,sub,sup,b,u,i,
+dl,dt,dd,ol,ul,li,fieldset,form,label,table,
+caption,tbody,tfoot,input,select,thead,tr,th,td {
+    /* background: none repeat scroll 0 0 transparent; */
+    border: 0 none; font-size: 100%; outline: 0 none;
+    vertical-align: baseline; margin: 0; padding: 0;list-style: none;
+} 
+
+ a, a:hover, button:hover, .anime {
+     -moz-transition: all 200ms linear;
+     -ms-transition: all 200ms linear;
+     -o-transition: all 200ms linear;
+     -webkit-transition: all 200ms linear;
+     transition: all 200ms linear;
+     cursor: pointer;
+     text-decoration: none;
+ } 
